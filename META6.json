@@ -1,0 +1,14 @@
+{
+	"perl"                   : "6.*",
+	"raku: "                 : "6.*",
+	"name"                   : "System::Stats::CPUsage",
+    "version"                : "1.0.0",
+    "provides"               : {
+    "System::Stats::CPUsage" : "lib/System/Stats/CPUsage.rakumod"},
+    "description"            : "Provides Statistics CPU Usage in percentage",
+    "authors"                : ["Ramiro Encinas Alarza"],
+    "tags"                   : ["system","utils","cpu","Stats", "Statistics"],
+    "depends"                : [ ],	
+    "license"                : "Artistic-2.0",
+    "source-url"             : "https://github.com/ramiroencinas/System-Stats-CPUsage.git"    
+}
