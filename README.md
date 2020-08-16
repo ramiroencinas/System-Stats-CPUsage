@@ -1,6 +1,6 @@
 # System::Stats::CPUsage
 
-Provides Statistics CPU Usage in percentage.
+Raku module - Provides Statistics CPU Usage in percentage.
 
 ## OS Supported: ##
 * GNU/Linux by /proc/stat
