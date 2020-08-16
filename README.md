@@ -18,5 +18,5 @@ Raku module - Provides Statistics CPU Usage in percentage.
 use v6;
 use System::Stats::CPUsage;    
 
-say "CPUsage%: CPU_Percentage()"
+say "CPUsage%: " ~ CPU_Percentage();
 ```
