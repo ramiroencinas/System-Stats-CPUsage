@@ -1,4 +1,5 @@
 # System::Stats::CPUsage
+[![Build Status](https://travis-ci.com/ramiroencinas/System-Stats-CPUsage.svg?branch=master)](https://travis-ci.com/github/ramiroencinas/System-Stats-CPUsage)
 
 Raku module - Provides Statistics CPU Usage in percentage.
 
