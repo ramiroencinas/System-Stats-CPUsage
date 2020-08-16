@@ -13,7 +13,10 @@ Raku module - Provides Statistics CPU Usage in percentage.
     zef install System::Stats::CPUsage
 
 ## Example Usage: ##
-    use v6;
-    use System::Stats::CPUsage;    
 
-    say "CPUsage%: CPU_Percentage()"
+```raku 
+use v6;
+use System::Stats::CPUsage;    
+
+say "CPUsage%: CPU_Percentage()"
+```
